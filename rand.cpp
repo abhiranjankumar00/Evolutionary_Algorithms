@@ -1,4 +1,5 @@
 #include "global.h"
+#include <time.h>
 
 void setSeed() {
 	time_t tm;
